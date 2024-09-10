@@ -1,0 +1,11 @@
+index,ID,Name,Age,City,age next year
+0,1,Alice,25.0,New York,26.0
+1,2,Bob,30.0,Los Angeles,31.0
+2,3,Charlie,35.0,Chicago,36.0
+3,4,Diana,28.0,Miami,29.0
+4,5,Ethan,40.0,Seattle,41.0
+5,6,Faith,22.0,Boston,23.0
+6,7,George,33.0,Houston,34.0
+7,8,Hannah,27.0,San Francisco,28.0
+8,9,Isaac,45.0,Denver,46.0
+9,10,Julia,0.0,Austin,0.0
